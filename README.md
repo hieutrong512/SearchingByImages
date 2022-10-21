@@ -24,7 +24,7 @@
 > Tải các file hỗ trợ, [**NeedToStart.zip**](https://drive.google.com/file/d/1Me_e4HlpkvaWwKhnUvrXti6UuMSkEyE5/view?usp=sharing) bao gồm:
 
 * `yolov7.onnx`: Được thông qua bởi thư viện onnxruntime dùng để tăng tốc độ xử lý của mô hình Yolo khi sử dụng.
-* `vectors.pkl`: File lưu trữ các vector của bộ dữ liệu sử dụng trong việc tìm kiếm. Cần đưa vào đúng vị trí `Image_Search\vectors.pkl`.
+* `vectors.pkl`: File lưu trữ các vector của bộ dữ liệu sử dụng trong việc tìm kiếm. Cần đưa vào đúng vị trí `img_search\vectors.pkl`.
 
 ### ***Chạy thử chương trình***:
 > Thực hiện lệnh:
