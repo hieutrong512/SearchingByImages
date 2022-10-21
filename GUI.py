@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import *
 from tkinter import filedialog
 from PIL import Image, ImageTk
-from Image_Search import search_image
+from img_search import search_image
 import tracking
 from urllib.parse import urlparse
 from os.path import splitext, basename
