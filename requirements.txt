@@ -1,0 +1,15 @@
+# Usage: pip install -r requirements.txt
+
+#For tracking
+onnxruntime
+numpy>=1.18.5
+opencv-python>=4.1.1
+
+
+#For search_image
+keras
+pickle-mixin
+
+
+#For GUI
+tk
